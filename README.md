@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-delta-ruby-2iczefm2c1.vercel.app/](https://portfolio-delta-ruby-2iczefm2c1.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-git-main-ranadev25s-projects.vercel.app/)
 
 - 💬 Ask me about **react**
 
