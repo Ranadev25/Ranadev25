@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rana Khan</h1>
 <h3 align="center">frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranadev25&label=Profile%20views&color=0e75b6&style=flat" alt="ranadev25" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranadev25&label=Profile%20views&color=0e75b6&style=flat" alt="ranadev25" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranadev25" alt="ranadev25" /></a> </p>
 
